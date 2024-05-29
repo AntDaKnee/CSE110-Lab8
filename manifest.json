@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "CSE110-Lab8",
+    "short_name": "Anthony",
     "description": "",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "minimal-ui",
+    "background_color": "#d9bbdc",
+    "theme_color": "#d9bbdc",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
